@@ -1,11 +1,18 @@
-﻿namespace Tyuiu.BrovinII.Sprint1.Task0.V7.Test
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
+using Tyuiu.BrovinII.Sprint1.Task0.V7.Lib;
+
+namespace Tyuiu.BrovinII.Sprint1.Task0.V7.Test
 {
     [TestClass]
-    public sealed class DataServiceTest
+    public class DataServiceTest
     {
         [TestMethod]
         public void TestMethod1()
         {
+            DataService ds = new DataService();
+            var res = ds.Calculate();
+            Assert.AreEqual(5, res);
         }
     }
 }
