@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37710.0 d17.14
+VisualStudioVersion = 17.14.37710.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinII.Sprint1.Task1.V28", "Tyuiu.BrovinII.Sprint1.Task1.V28\Tyuiu.BrovinII.Sprint1.Task1.V28.csproj", "{5BE761FA-5BDE-4D63-B9C7-BA1F9EE3BE4A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinII.Sprint1.Task1.V28.Lib", "Tyuiu.BrovinII.Sprint1.Task1.V28.Lib\Tyuiu.BrovinII.Sprint1.Task1.V28.Lib.csproj", "{4F2BDDA6-CC7D-4FFE-9316-54B1FAD27F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinII.Sprint1.Task1.V28.Test", "Tyuiu.BrovinII.Sprint1.Task1.V28.Test\Tyuiu.BrovinII.Sprint1.Task1.V28.Test.csproj", "{F195411B-66ED-4765-AE5A-6649C3979B38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +45,10 @@ Global
 		{4F2BDDA6-CC7D-4FFE-9316-54B1FAD27F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F2BDDA6-CC7D-4FFE-9316-54B1FAD27F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F2BDDA6-CC7D-4FFE-9316-54B1FAD27F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F195411B-66ED-4765-AE5A-6649C3979B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F195411B-66ED-4765-AE5A-6649C3979B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F195411B-66ED-4765-AE5A-6649C3979B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F195411B-66ED-4765-AE5A-6649C3979B38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +59,7 @@ Global
 		{FE55DDC9-13BB-481B-BA35-104DEC416B4D} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
 		{5BE761FA-5BDE-4D63-B9C7-BA1F9EE3BE4A} = {58DDE450-7CAB-4AEA-A0A0-390E5B0485E7}
 		{4F2BDDA6-CC7D-4FFE-9316-54B1FAD27F59} = {58DDE450-7CAB-4AEA-A0A0-390E5B0485E7}
+		{F195411B-66ED-4765-AE5A-6649C3979B38} = {58DDE450-7CAB-4AEA-A0A0-390E5B0485E7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F649A26-52D6-4BC1-87A6-6EA43A4821E2}
