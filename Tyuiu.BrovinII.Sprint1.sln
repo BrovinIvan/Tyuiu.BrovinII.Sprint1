@@ -13,9 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinII.Sprint1.Task
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{58DDE450-7CAB-4AEA-A0A0-390E5B0485E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinII.Sprint1.Task1.V28", "Tyuiu.BrovinII.Sprint1.Task0.V28\Tyuiu.BrovinII.Sprint1.Task1.V28.csproj", "{5BE761FA-5BDE-4D63-B9C7-BA1F9EE3BE4A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinII.Sprint1.Task1.V28", "Tyuiu.BrovinII.Sprint1.Task1.V28\Tyuiu.BrovinII.Sprint1.Task1.V28.csproj", "{5BE761FA-5BDE-4D63-B9C7-BA1F9EE3BE4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinII.Sprint1.Task1.V28.Lib", "Tyuiu.BrovinII.Sprint1.Task0.V28.Lib\Tyuiu.BrovinII.Sprint1.Task1.V28.Lib.csproj", "{4F2BDDA6-CC7D-4FFE-9316-54B1FAD27F59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinII.Sprint1.Task1.V28.Lib", "Tyuiu.BrovinII.Sprint1.Task1.V28.Lib\Tyuiu.BrovinII.Sprint1.Task1.V28.Lib.csproj", "{4F2BDDA6-CC7D-4FFE-9316-54B1FAD27F59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
