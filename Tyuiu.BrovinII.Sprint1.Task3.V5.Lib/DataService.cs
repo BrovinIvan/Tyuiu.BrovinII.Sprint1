@@ -6,7 +6,7 @@ namespace Tyuiu.BrovinII.Sprint1.Task3.V5.Lib
     {
         public double DistanceLength(double mapScale, double distanceBetweenPoints)
         {
-            return mapScale * distanceBetweenPoints;
+            return Math.Round(mapScale * distanceBetweenPoints, 3);
         }
     }
 }
