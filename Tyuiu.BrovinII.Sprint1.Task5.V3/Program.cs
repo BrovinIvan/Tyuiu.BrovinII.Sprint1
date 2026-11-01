@@ -1,4 +1,6 @@
-﻿namespace Tyuiu.BrovinII.Sprint1.Task5.V3
+﻿using Tyuiu.BrovinII.Sprint1.Task5.V3.Lib;
+
+namespace Tyuiu.BrovinII.Sprint1.Task5.V3
 {
     internal class Program
     {
