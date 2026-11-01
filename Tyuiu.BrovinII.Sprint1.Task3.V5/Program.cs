@@ -17,6 +17,7 @@ namespace Tyuiu.BrovinII.Sprint1.Task3.V5
             double y = int.Parse(Console.ReadLine());
             Console.WriteLine("Результат:");
             Console.WriteLine(ds.DistanceLength(x,y));
+            Console.ReadLine();
         }
     }
 }
